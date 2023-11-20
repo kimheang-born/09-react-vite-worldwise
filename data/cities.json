@@ -35,6 +35,54 @@
         "lng": 13.376933665713324
       },
       "id": 98443197
+    },
+    {
+      "cityName": "Phnom Penh",
+      "country": "Cambodia",
+      "emoji": "🇰🇭",
+      "date": "2028-05-20T12:45:00.000Z",
+      "notes": "Exciting city!",
+      "position": {
+        "lat": 11.5564,
+        "lng": 104.9282
+      },
+      "id": 12987432
+    },
+    {
+      "cityName": "Bangkok",
+      "country": "Thailand",
+      "emoji": "🇹🇭",
+      "date": "2028-01-10T18:30:00.000Z",
+      "notes": "Vibrant and lively!",
+      "position": {
+        "lat": 13.7563,
+        "lng": 100.5018
+      },
+      "id": 67548932
+    },
+    {
+      "cityName": "Vientiane",
+      "country": "Laos",
+      "emoji": "🇱🇦",
+      "date": "2028-09-05T09:15:00.000Z",
+      "notes": "Serene and beautiful.",
+      "position": {
+        "lat": 17.9757,
+        "lng": 102.6331
+      },
+      "id": 32875691
+    },
+    {
+      "cityName": "Hanoi",
+      "country": "Vietnam",
+      "emoji": "🇻🇳",
+      "date": "2028-03-18T14:12:00.000Z",
+      "notes": "Rich in history!",
+      "position": {
+        "lat": 21.0285,
+        "lng": 105.8542
+      },
+      "id": 54873928
     }
   ]
 }

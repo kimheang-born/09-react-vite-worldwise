@@ -131,6 +131,18 @@
         "lng": 104.1741
       },
       "id": 76543210
+    },
+    {
+      "cityName": "Battambang",
+      "country": "Cambodia",
+      "emoji": "🇰🇭",
+      "date": "2029-09-20T14:00:00.000Z",
+      "notes": "Artistic and cultural hub.",
+      "position": {
+        "lat": 13.0957,
+        "lng": 103.2022
+      },
+      "id": 54321098
     }
   ]
 }

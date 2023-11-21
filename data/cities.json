@@ -83,6 +83,54 @@
         "lng": 105.8542
       },
       "id": 54873928
+    },
+    {
+      "cityName": "Kratie",
+      "country": "Cambodia",
+      "emoji": "🇰🇭",
+      "date": "2029-01-01T08:00:00.000Z",
+      "notes": "Beautiful riverside town.",
+      "position": {
+        "lat": 12.4906,
+        "lng": 106.0188
+      },
+      "id": 98765432
+    },
+    {
+      "cityName": "Pailin",
+      "country": "Cambodia",
+      "emoji": "🇰🇭",
+      "date": "2029-08-10T10:30:00.000Z",
+      "notes": "Hidden gem in the mountains.",
+      "position": {
+        "lat": 12.8459,
+        "lng": 102.6046
+      },
+      "id": 65432109
+    },
+    {
+      "cityName": "Siem Reap",
+      "country": "Cambodia",
+      "emoji": "🇰🇭",
+      "date": "2029-02-14T12:30:00.000Z",
+      "notes": "Home of Angkor Wat!",
+      "position": {
+        "lat": 13.3618,
+        "lng": 103.8607
+      },
+      "id": 87654321
+    },
+    {
+      "cityName": "Kampot",
+      "country": "Cambodia",
+      "emoji": "🇰🇭",
+      "date": "2029-03-25T15:45:00.000Z",
+      "notes": "Charming riverside town.",
+      "position": {
+        "lat": 10.6181,
+        "lng": 104.1741
+      },
+      "id": 76543210
     }
   ]
 }
